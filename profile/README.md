@@ -1,3 +1,5 @@
+<img width="1128" height="191" alt="EPEC_LinkedIn_Banners_v1-resize(1)" src="https://github.com/user-attachments/assets/e99bce08-effd-4952-9741-f87250025b55" />
+
 # EPEC Group
 
 Welcome to the EPEC Group GitHub organization.
